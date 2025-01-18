@@ -3,18 +3,28 @@
   "displayName": "BlackHighContrast-Theme",
   "description": "VS Code theme based on `Github Dark Default` theme, modified to be pure black and high contrast.",
   "version": "0.0.1",
+	"publisher": "sHellWalker",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.25.0"
   },
   "categories": [
     "Themes"
   ],
+  "tags": [
+		"dark theme",
+		"high contrast"
+	],
+	"icon": "images/icon.png",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/abstractParm/BlackHighContrast-Theme.git"
+	},
   "contributes": {
     "themes": [
       {
-        "label": "JustBlack",
+        "label": "BlackHighContrast",
         "uiTheme": "hc-black",
-        "path": "./themes/JustBlack-color-theme.json"
+        "path": "./themes/BlackHighContrast-color-theme.json"
       }
     ]
   }
