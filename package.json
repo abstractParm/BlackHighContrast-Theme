@@ -1,0 +1,21 @@
+{
+  "name": "blackhighcontrast-theme",
+  "displayName": "BlackHighContrast-Theme",
+  "description": "VS Code theme based on `Github Dark Default` theme, modified to be pure black and high contrast.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JustBlack",
+        "uiTheme": "hc-black",
+        "path": "./themes/JustBlack-color-theme.json"
+      }
+    ]
+  }
+}
