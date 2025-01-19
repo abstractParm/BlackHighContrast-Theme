@@ -111,6 +111,8 @@
 	  "editor.lineHighlightBorder": "#1b1f1e",
 	  "editor.selectionBackground": "#04447fbd",
 	  "editor.selectionForeground": "#ffffff",
+	  "editorUnnecessaryCode.border":"#a06144",
+	  "editorUnnecessaryCode.opacity": "#0000007c",
 	  "editorLineNumber.foreground": "#6e7681",
 	  "editorLineNumber.activeForeground": "#e6edf3",
 	  "editorIndentGuide.background": "#e6edf31f",
